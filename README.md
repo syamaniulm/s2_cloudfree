@@ -6,9 +6,9 @@ These codes are a modification of the Sentinel-2 Cloud Masking with s2cloudless 
 Original source: https://github.com/google/earthengine-community/blob/master/tutorials/sentinel-2-s2cloudless/index.ipynb<br />
 Credit: Justin Braaten (https://github.com/jdbcode)<br />
 
-Python prerequisites: Python 3.9 or higher<br />
+### Python prerequisites: Python 3.9 or higher<br />
 
-## Required packages:<br />
+### Required packages:<br />
 earthengine-api (https://anaconda.org/conda-forge/earthengine-api)<br />
 geemap (https://anaconda.org/conda-forge/geemap)<br />
 geopandas (https://anaconda.org/conda-forge/geopandas)<br />
@@ -16,5 +16,5 @@ json (https://anaconda.org/jmcmurray/json)<br />
 folium (https://anaconda.org/conda-forge/folium)<br />
 geedim (https://anaconda.org/conda-forge/geedim)<br />
 
-## Other requirements:<br />
+### Other requirements:<br />
 You must have a Google Earth Engine account to run these codes.<br />
