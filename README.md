@@ -19,3 +19,6 @@ geedim (https://anaconda.org/conda-forge/geedim)<br />
 
 ### Other requirements:<br />
 You must have a Google Earth Engine account to run these codes.<br />
+
+### Notes:<br />
+Since the code will download the image in image tiles format to your local drive. You will need to mosaic the image tiles into a complete image using your favorite image processing software.<br />
