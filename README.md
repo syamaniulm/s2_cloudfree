@@ -21,4 +21,4 @@ geedim (https://anaconda.org/conda-forge/geedim)<br />
 You must have a Google Earth Engine account to run these codes.<br />
 
 ### Notes:<br />
-Since the codes will download the image in image tiles format to your local drive. You will need to mosaic the image tiles into a complete image using image processing software. If necessary, you can convert the image into Band Sequential (BSQ) format and integer precision to save storage space using your favorite image processing software.<br />
+Since the codes will download the image in image tiles format to your local drive. You will need to mosaic the image tiles into a complete image using image processing software. These codes will also usually download the image tiles in Band Interleaved by Pixel (BIP) format and double precision. Of course this will slow down the image display and waste storage space on your disk. If necessary, you can convert the image into Band Sequential (BSQ) format and integer precision to save storage space using your favorite image processing software.<br />
